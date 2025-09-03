@@ -231,7 +231,15 @@ Then, and only then, write the tweet/thread using the top hook.
   },
   "examples": [
     {
-      "text": "Esse filme que parece uma obra de um estúdio gigante em Hollywood que custou milhões de dólares, foi feito por um pequeno estúdio usando AI com um budget infinitamente menor, chamado Arcana Labs. Quantos anos vocês acham que vai demorar até 'BEST AI FILM' ser uma categoria do Oscar?",
+      "text": "Essa é a tática o Ray Dalio usa para ter discussões mais produtivas com o time dele (e que eu sou completamente obcecada) 👇  Ele diz que toda conversa pode estar em um nível mais alto – como visão e estratégia – ou em um nível mais baixo – como tarefas e detalhes técnicos - e que o segredo para discussões produtivas é definir o nível certo e garantir que todos estejam nele. Por exemplo:
+               Se você quiser melhorar as suas vendas, discutir um reposicionamento de marca é nível estratégico. 
+               Discutir a cor do botão do site é nível operacional.
+
+               O objetivo dos dois níveis são os mesmos, mas sem alinhar o nível da conversa, a reunião vira um caos 🥹 (eu tenho certeza que você já viu isso acontecer). 
+
+               Por isso, antes de qualquer discussão, alinhe com o seu time se você quer falar de visão, estratégia ou execução. 
+
+               Assim você tem conversas muito mais produtivas e evita aquele looping infinito de ideias sem conclusão.
       "why_it_works": "Combines storytelling, future prediction, and strong CTA to her newsletter."
     },
     {
